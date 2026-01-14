@@ -12,3 +12,8 @@
 ---
 *Welcome to my programming journey!*
 
+---
+### 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/hanadi-ibrahim-bb17b43a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 
+- **Email:** [hanadiibrahim1742006@gmail.com]
