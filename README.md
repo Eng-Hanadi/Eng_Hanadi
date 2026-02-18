@@ -18,9 +18,7 @@
 الشرح المنطقي: لا أكتب الكود فقط، بل أشرح الفلسفة من خلفه (مثل مفهوم "الصناديق الرقمية").
 التوثيق الصوتي: قريباً، سيتم دمج شروحات صوتية لكل مفهوم برمجي لتسهيل الفهم على المبتدئين مثلي.
 التعلم المستمر: أركز حالياً على إتقان لغة Java وبناء أساس قوي في الخوارزميات.
-<audio controls>
-  <source src="string.m4a" type="audio/mp4">
-</audio>
+
 
 
 ---
@@ -32,7 +30,9 @@
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/hanadi_abo_odauh?igsh=Nzl2eTlqcTExaDRp)
 
-- <audio controls>
-  <source src="string.m4a" type="audio/mp4">
+<audio controls>
+  <source src="https://github.com/Eng-Hanadi/Eng_Hanadi/raw/main/string.m4a" type="audio/mp4">
+  متصفحك لا يدعم تشغيل الصوت.
 </audio>
+
 
