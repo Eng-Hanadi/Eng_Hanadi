@@ -30,9 +30,7 @@
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/hanadi_abo_odauh?igsh=Nzl2eTlqcTExaDRp)
 
-<audio controls>
-  <source src="https://github.com/Eng-Hanadi/Eng_Hanadi/raw/main/string.m4a" type="audio/mp4">
-  متصفحك لا يدعم تشغيل الصوت.
-</audio>
+> ### 🎙️ [اضغطي هنا لسماع شرح الـ String بصوتك](https://github.com/Eng-Hanadi/Eng_Hanadi/raw/main/string.m4a)
+> 
 
 
