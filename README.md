@@ -2,11 +2,11 @@
 
 > **"Turning logic into art, and code into solutions."**
 
-https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
+---
 
 ### 💫 About Me
 I am a passionate **Software Engineering student** dedicated to mastering the art of programming. My journey is driven by curiosity and a commitment to building efficient, scalable, and meaningful technology.
-https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
+---
 
 ### 📚 Featured Learning Lab (Java)
 I believe that true learning comes from a blend of theory and practice. This repository serves as my **Integrated Learning Lab**, where I document my progress in Java.
@@ -26,7 +26,11 @@ https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=f
 ---
 
 ### 🚀 Future Goals
-https://github-readme-stats.vercel.app/api?username=Eng-Hanadi&show_icons=true&theme=radical
+- [x] **Phase 1:** Master Java Basics (Strings, Scanner) ☕
+- [ ] **Phase 2:** Advanced Logic & Methods 🧠
+- [ ] **Phase 3:** Build my first Desktop App 🖥️
+- [ ] **Phase 4:** Open Source Contribution 🌍
+- [ ] 
 ---
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/hanadi-ibrahim-bb17b43a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
