@@ -16,11 +16,13 @@ I believe that true learning comes from a blend of theory and practice. This rep
 * *This hub includes: Audio explanations, source codes, and conceptual breakdowns (Strings, Scanner, etc.).*
 
 ---
-
 ### 🛠️ Technical Toolkit
-* **Core Language:** Java ☕
-* **Version Control:** Git & GitHub 📂
-* **Development Environment:** IntelliJ IDEA 💻
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ---
 
