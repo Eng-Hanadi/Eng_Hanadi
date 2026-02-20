@@ -1,19 +1,31 @@
-# Hi there, I'm Hanadi 👋
+# 👩‍💻 Eng. Hanadi Ibrahim| Software Engineering Student 🚀
 
-### 🎓 About Me
-- **Software Engineering Student** (1st Year).
-- 🔭 I’m currently learning **Java** and building my first projects.
-- 🌱 I’m interested in solving problems and learning how software works.
-
-### 🛠 Skills
-- **Language:** Java ☕
-- **Tools:** Git, GitHub, IntelliJ
+> **"Turning logic into art, and code into solutions."**
 
 ---
-*Welcome to my programming journey!*
 
- 
-مرحباً بك في مستودعي الرقمي! أنا هنادي، طالبة هندسة برمجيات طموحة، أؤمن أن الكود ليس مجرد أوامر، بل هو لغة لبناء المستقبل. هنا أدوّن كل خطوة أخطوها، من المتغيرات البسيطة وصولاً إلى الأنظمة المعقدة.
+### 💫 About Me
+I am a passionate **Software Engineering student** dedicated to mastering the art of programming. My journey is driven by curiosity and a commitment to building efficient, scalable, and meaningful technology.
+
+---
+
+### 📚 Featured Learning Lab (Java)
+I believe that true learning comes from a blend of theory and practice. This repository serves as my **Integrated Learning Lab**, where I document my progress in Java.
+
+* **[🎯 Explore My Java Lessons Hub](./Java_Lessons/Lessons.md)**
+* *This hub includes: Audio explanations, source codes, and conceptual breakdowns (Strings, Scanner, etc.).*
+
+---
+
+### 🛠️ Technical Toolkit
+* **Core Language:** Java ☕
+* **Version Control:** Git & GitHub 📂
+* **Development Environment:** IntelliJ IDEA 💻
+
+---
+
+### 🚀 Future Goals
+I aim to contribute to open-source projects and develop software that makes a real-world impact. Every commit here is a step toward that vision.
 ---
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/hanadi-ibrahim-bb17b43a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
@@ -22,14 +34,7 @@
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+970598632980)
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/hanadi_abo_odauh?igsh=Nzl2eTlqcTExaDRp)
-
-### 📚 دروس جافا الصوتية
-### 📚 دروس البرمجة المختصرة
-
-| الموضوع | الكود والشرح |
-| :--- | :--- |
-| **🧵 Strings** | [💻 الكود والصوت](https://github.com/Eng-Hanadi/Eng_Hanadi/raw/main/string.m4a) |
-| **⌨️ Scanner** | [💻 الكود والصوت](https://github.com/Eng-Hanadi/Eng_Hanadi/raw/main/Scanner.m4a) |
+) 
 
 
 
