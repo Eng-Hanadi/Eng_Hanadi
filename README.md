@@ -27,7 +27,7 @@ I believe that true learning comes from a blend of theory and practice. This rep
 ---
 
 ### 🚀 Future Goals
-I aim to contribute to open-source projects and develop software that makes a real-world impact. Every commit here is a step toward that vision.
+https://github-readme-stats.vercel.app/api?username=Eng-Hanadi&show_icons=true&theme=radical
 ---
 ### 📫 Connect with me:
 - **LinkedIn:** [https://www.linkedin.com/in/hanadi-ibrahim-bb17b43a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
