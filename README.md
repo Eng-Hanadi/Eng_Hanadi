@@ -2,12 +2,11 @@
 
 > **"Turning logic into art, and code into solutions."**
 
----
+https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
 
 ### 💫 About Me
 I am a passionate **Software Engineering student** dedicated to mastering the art of programming. My journey is driven by curiosity and a commitment to building efficient, scalable, and meaningful technology.
-
----
+https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
 
 ### 📚 Featured Learning Lab (Java)
 I believe that true learning comes from a blend of theory and practice. This repository serves as my **Integrated Learning Lab**, where I document my progress in Java.
@@ -15,7 +14,7 @@ I believe that true learning comes from a blend of theory and practice. This rep
 * **[🎯 Explore My Java Lessons Hub](./Java_Lessons/Lessons.md)**
 * *This hub includes: Audio explanations, source codes, and conceptual breakdowns (Strings, Scanner, etc.).*
 
----
+https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
 ### 🛠️ Technical Toolkit
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
