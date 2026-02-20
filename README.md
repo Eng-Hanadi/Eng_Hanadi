@@ -13,8 +13,7 @@ I believe that true learning comes from a blend of theory and practice. This rep
 
 * **[🎯 Explore My Java Lessons Hub](./Java_Lessons/Lessons.md)**
 * *This hub includes: Audio explanations, source codes, and conceptual breakdowns (Strings, Scanner, etc.).*
-
-https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=footer
+---
 ### 🛠️ Technical Toolkit
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
